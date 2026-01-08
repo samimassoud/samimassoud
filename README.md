@@ -34,8 +34,4 @@ I specialize in building production-grade, secure, and automated cloud infrastru
 - 💬 Ask me about: **AWS, Terraform, and why you should stop using long-lived IAM keys.**
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/samihajji/) | samimassoud67@gmail.com
 
----
 
-### 📊 GitHub Activity
-![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=samimassoud&show_icons=true&theme=transparent&hide_border=true&title_color=007acc&icon_color=007acc)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samimassoud&layout=compact&theme=transparent&hide_border=true&title_color=007acc)
