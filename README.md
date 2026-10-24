@@ -1,37 +1,42 @@
-# Hi, I'm Sami Hajji 👋
+# Sami Hajji
 
-### ☁️ DevOps & Cloud Engineer
-I specialize in building production-grade, secure, and automated cloud infrastructures. My focus is on **GitOps**, **Infrastructure as Code (IaC)**, and **Security-Shift-Left** methodologies. I enjoy turning complex manual processes into reliable, automated workflows.
+**DevOps & Cloud Engineer | Kubernetes, GitOps & Infrastructure as Code**
 
----
+I'm a Computer Engineering graduate interested in the systems behind reliable software delivery: reproducible infrastructure, automated deployments, cluster operations, and observability.
 
-### 🚀 Featured Project
-**[Production-Grade GitOps Infrastructure](https://github.com/image-processor-demo)**
-*A three-repository system architected to demonstrate enterprise-scale GitOps.*
-- **[Infrastructure Repo](https://github.com/image-processor-demo/infra):** The Single Source of Truth for AWS state.
-- **[Modules Repo](https://github.com/image-processor-demo/modules):** Versioned, reusable HCL components.
-- **[App Repo](https://github.com/image-processor-demo/app):** Automated CI/CD for Lambda and Frontend.
- 
-*An end-to-end, three-repository system separating Application code, Terraform modules, and Live Infrastructure.*
-- **Key Features:** OIDC-based authentication (no access keys), automated security scanning (tfsec/Checkov), artifact-driven CD, and custom CloudFront security headers.
-- **Tools:** AWS, Terraform, GitHub Actions, Bash.
+My experience spans hands-on Kubernetes and GitOps work, cloud infrastructure labs, and CI/CD automation. I'm particularly interested in platform engineering and in understanding how the pieces fit together, from infrastructure provisioning to application delivery.
 
----
+## Current Focus
 
-### 🛠 Tech Stack & Tools
-- **Cloud:** AWS (EC2, S3, Lambda, CloudFront, VPC, IAM, API Gateway)
-- **Infrastructure as Code:** Terraform (Modular Design, Versioning, GitOps)
-- **CI/CD & GitOps:** GitHub Actions (OIDC, Multi-repo workflows, Artifact-driven)
-- **Security:** tfsec, Checkov, AWS WAF, OIDC Federation
-- **Linux & Automation:** Ubuntu, Bash Scripting, systemd timers, rsync
-- **Currently Mastering:** Kubernetes (EKS/ECS) & Observability (Prometheus, Grafana)
+I'm developing a platform engineering lab around Azure, AKS, Terraform, and Argo CD. The goal is to explore how a platform team can provision and manage workload clusters, integrate managed cloud services, and deliver applications through GitOps.
 
----
+The lab uses the OpenTelemetry Astronomy Shop as a representative microservices workload, with a focus on infrastructure lifecycle management, deployment workflows, and observability.
 
-### 📈 My Progress
-- 🔭 I’m currently building: **Observability stacks for managed container services.**
-- 🌱 I’m currently learning: **Kubernetes-native GitOps & Prometheus/Grafana.**
-- 💬 Ask me about: **AWS, Terraform, and why you should stop using long-lived IAM keys.**
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/samihajji/) | samimassoud67@gmail.com
+## Experience Highlights
 
+During my DevOps internship at FootHill Technology Solutions, I worked with:
 
+- **Kubernetes & Helm:** Packaging applications, managing deployments, and building reusable Helm charts.
+- **Argo CD & GitOps:** Declarative application delivery, synchronization strategies, and resource ordering.
+- **CI/CD:** GitHub Actions workflows for Helm linting, manifest rendering, and Kubernetes schema validation.
+- **Networking & security:** Gateway API, TLS, Sealed Secrets, and application routing.
+- **Troubleshooting:** Investigating PostgreSQL permissions, migration workflows, and application access to database resources.
+
+The experience strengthened my interest in platform engineering: not just deploying applications, but building the systems and workflows that make deployments repeatable and maintainable.
+
+## Technologies
+
+| Area | Technologies |
+|---|---|
+| Cloud | AWS, Azure |
+| Infrastructure as Code | Terraform |
+| Containers & orchestration | Docker, Kubernetes, AKS |
+| Deployment & GitOps | Helm, Argo CD |
+| CI/CD | GitHub Actions |
+| Observability | Prometheus, Grafana, OpenTelemetry |
+| Cloud-native infrastructure | Gateway API, CAPZ, Azure Service Operator |
+| Security & automation | OIDC, Sealed Secrets, Linux, Bash |
+
+## Get in Touch
+
+[LinkedIn](https://www.linkedin.com/in/samihajji/) · [Email](mailto:samimassoud67@gmail.com)
